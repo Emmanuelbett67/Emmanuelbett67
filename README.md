@@ -1,20 +1,9 @@
-<!--- 👋 Hi, I’m @Emmanuelbett
+- 👋 Hi, I’m @Emmanuelbett
 - 👀 I’m interested in Data Science and Analytics.
 -  I’m looking to collaborate on projects related to Data Science and analytics that will help me achieve my personal and career goals.
 - 📫 You can reach me via email @ e.yegonbett@gmail.com 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuelbett67&theme=radical) --->
-
-<h1 align="center">Hi 👋, I'm Emmanuel Bett</h1>
-<h3 align="center">A data enthusiast from Nairobi,Kenya</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelbett67" alt="emmanuelbett67" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/emmanuel bett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emmanuel bett" height="30" width="40" /></a>
-<a href="https://medium.com/@emmanuel bett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emmanuel bett" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/emmanuel bett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emmanuel bett" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelbett67&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelbett67" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

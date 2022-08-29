@@ -2,11 +2,7 @@
 - 👀 I’m interested in Data Science and Analytics.
 -  I’m looking to collaborate on projects related to Data Science and analytics that will help me achieve my personal and career goals.
 - 📫 You can reach me via email @ e.yegonbett@gmail.com
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuelbett67&count_private-true&show_icons-truetheme=radical)
-<br />
-<br />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuelbett67 &theme=radical)
 
 <!---
 Emmanuelbett67/Emmanuelbett67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

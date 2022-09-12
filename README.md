@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Emmanuelbett
 - 👀 I’m interested in Data Science and Analytics.
--  I’m looking to collaborate on projects related to Data Science and analytics that will help me achieve my personal and career goals.
 - 📫 You can reach me via email @ e.yegonbett@gmail.com 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelbett67&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelbett67" />

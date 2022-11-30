@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmanuelbett
+- 👋 Hi, I’m Emmanuelbett, currently a Bsc. Business Information Technology student
 - 👀 I’m interested in Data Science and Analytics.
 - 📫 You can reach me via email @ e.yegonbett@gmail.com 
 

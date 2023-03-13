@@ -1,6 +1,19 @@
-- 👋 Hi, I’m Emmanuelbett, currently a Bsc. Business Information Technology student
-- 👀 I’m interested in Data Science and Analytics.
-- 📫 You can reach me via email @ e.yegonbett@gmail.com 
+### Hi there 👋
+
+My name is Emmanuel and I'm a Bsc. Business Information Technology student from Kenya. Here's some info about me!
+
+⚡ Work experience: <br>
+- **CloudFactory** - Data Annotator [Remote-part time. Jan 2023-present]
+
+🌱 Interests:
+- Data Science.
+- Machine Learning.
+
+💬 Reach me by email or LinkedIn! e.yegonbett@gmail.com| [https://www.linkedin.com/in/emmanuel-bett/]
+
+📫 Visit my website that is in early development: [https://emmanuelbett.netlify.app/]
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelbett67&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelbett67" />
 </p>

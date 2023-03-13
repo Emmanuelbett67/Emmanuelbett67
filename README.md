@@ -9,9 +9,9 @@ My name is Emmanuel and I'm a Bsc. Business Information Technology student from 
 - Data Science.
 - Machine Learning.
 
-💬 Reach me by email or LinkedIn! e.yegonbett@gmail.com| [https://www.linkedin.com/in/emmanuel-bett/]
+💬 Reach me by email or LinkedIn! e.yegonbett@gmail.com| https://www.linkedin.com/in/emmanuel-bett/
 
-📫 Visit my website that is in early development: [https://emmanuelbett.netlify.app/]
+📫 Visit my website that is in early development: https://emmanuelbett.netlify.app/
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 

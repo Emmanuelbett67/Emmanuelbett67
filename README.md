@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Emmanuel and I'm a Bsc. Business Information Technology student from Kenya. Here's some info about me!
+My name is Emmanuel and I'm a BSc. Business Information Technology student from Kenya. Here's some info about me!
 
 ⚡ Work experience: <br>
 - **CloudFactory** - Data Annotator [Remote-part time. Jan 2023-present]
 
 🌱 Interests:
 - Data Science.
-- Machine Learning.
+- Software Development.
 
 💬 Reach me by email or LinkedIn! e.yegonbett@gmail.com| https://www.linkedin.com/in/emmanuel-bett/
 

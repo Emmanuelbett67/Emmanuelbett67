@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Emmanuel and I'm a BSc. Business Information Technology student from Kenya. Here's some info about me!
+My name is Emmanuel and I'm a Junior Data Analyst from Kenya. Here's some info about me!
 
 ⚡ Work experience: <br>
 - **CloudFactory** - Data Annotator [Remote-part time. Jan 2023-present]
@@ -9,9 +9,9 @@ My name is Emmanuel and I'm a BSc. Business Information Technology student from 
 - Data Science.
 - Software Development.
 
-💬 Reach me by email or LinkedIn! e.yegonbett@gmail.com| https://www.linkedin.com/in/emmanuel-bett/
+💬 Reach me by email or LinkedIn! e.yegonbett@gmail.com | https://www.linkedin.com/in/emmanuel-bett/
 
-📫 Visit my website that is in early development: https://emmanuelbett.netlify.app/
+📫 Visit my website which is in early development: https://emmanuelbett.netlify.app/
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 

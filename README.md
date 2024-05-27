@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Emmanuel and I'm a Junior Data Analyst from Kenya. Here's some info about me!
+My name is Emmanuel and I'm a Junior Data Analyst from Nairobi,Kenya. Here's some info about me!
 
 ⚡ Work experience: <br>
 - **CloudFactory** - Data Annotator [Remote-part time. Jan 2023-present]

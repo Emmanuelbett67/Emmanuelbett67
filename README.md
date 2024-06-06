@@ -3,6 +3,7 @@
 My name is Emmanuel and I'm a Junior Data Analyst from Nairobi,Kenya. Here's some info about me!
 
 ⚡ Work experience: <br>
+- **iLab Africa** - Software Developer Intern [Nairobi, Kenya. May 2024-present]
 - **CloudFactory** - Data Annotator [Remote-part time. Jan 2023-present]
 
 🌱 Interests:

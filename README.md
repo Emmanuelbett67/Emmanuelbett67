@@ -12,7 +12,7 @@ My name is Emmanuel and I'm a Junior Software Developer from Nairobi,Kenya. Here
 
 💬 Reach me by email or LinkedIn! e.yegonbett@gmail.com | https://www.linkedin.com/in/emmanuel-bett/
 
-📫 Visit my website which is in early development: https://emmanuelbett.netlify.app/
+📫 Visit my website which is in early development: (https://emmanuelbett.vercel.app/)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
